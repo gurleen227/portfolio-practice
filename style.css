@@ -1,0 +1,29 @@
+h1, footer {
+    background-color: gray ;
+    text-align: center;
+    border: 20px solid gray; 
+}
+
+h2, h3{
+    margin-bottom: 5px;
+}
+
+.info{
+    background-color: lightgrey;
+    border: 10px solid white;
+    margin: 50px;
+}
+
+html{
+    background-color: white;
+}
+
+img{
+    border: 2px solid black;
+    margin-left: 5px;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
